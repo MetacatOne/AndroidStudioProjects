@@ -1,0 +1,7 @@
+#Tue Apr 04 15:36:57 EEST 2017
+base.0=/home/gbarzu/AndroidStudioProjects/ButtonCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_34ecfd9b248be685784f3bc7aed95c70d4993328
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/gbarzu/AndroidStudioProjects/ButtonCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c27948af8a49d09a23735dc8c76c6ee3e4603767/classes.dex
+base.1=/home/gbarzu/AndroidStudioProjects/ButtonCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c27948af8a49d09a23735dc8c76c6ee3e4603767
+file.0=/home/gbarzu/AndroidStudioProjects/ButtonCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_34ecfd9b248be685784f3bc7aed95c70d4993328/classes.dex

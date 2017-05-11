@@ -1,0 +1,7 @@
+#Thu May 11 20:21:18 EEST 2017
+base.0=/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_233eb0f71932245eff232c6a08af2c9c576baad3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_50a7c0b3cc92605b09ee2d9abfd3df51637d1f85/classes.dex
+base.1=/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_50a7c0b3cc92605b09ee2d9abfd3df51637d1f85
+file.0=/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_233eb0f71932245eff232c6a08af2c9c576baad3/classes.dex

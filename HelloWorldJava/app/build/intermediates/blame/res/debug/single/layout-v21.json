@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/HelloWorldJava/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/HelloWorldJava/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/HelloWorldJava/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/HelloWorldJava/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

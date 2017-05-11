@@ -1,0 +1,4 @@
+#Fri May 05 19:28:51 EEST 2017
+base.0=/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

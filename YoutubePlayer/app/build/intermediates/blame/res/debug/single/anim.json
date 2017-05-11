@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Apr 04 15:27:35 EEST 2017
+base.0=/home/gbarzu/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_20067cc402f69c0e8e7570d758fada026e4160a1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/gbarzu/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4f82e9a8b24fc9338479501e0ad098c9df336dd/classes.dex
+base.1=/home/gbarzu/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4f82e9a8b24fc9338479501e0ad098c9df336dd
+file.0=/home/gbarzu/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_20067cc402f69c0e8e7570d758fada026e4160a1/classes.dex

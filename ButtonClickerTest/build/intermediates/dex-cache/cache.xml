@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3a6f8b068347eb47f4e9be025673f9cd62c3b">
+        <dex dex="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_084f56109d684cba26a215f6dbc442371a3ff524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a6ca5facadd478e71aba50267e93b05279d5bd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gbarzu/.android/build-cache/fe102c33b2c05ecc1d9f8dd857bc879156308a89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe9a1fe2aa30e40e2a0cea0036d8e0e8900945f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gbarzu/.android/build-cache/7aba3a051bd144e0bee09f95902fb8bfe843a925/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5dd9cff455159b64017032a9e0c9389d1715e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b56e54ee5a142e1a0139c65bebcf14ac295df046/classes.dex" />
+    </item>
+
+</items>

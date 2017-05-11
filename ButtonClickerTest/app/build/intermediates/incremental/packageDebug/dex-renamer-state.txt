@@ -1,0 +1,7 @@
+#Tue Apr 04 17:39:02 EEST 2017
+base.0=/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_084f56109d684cba26a215f6dbc442371a3ff524
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b56e54ee5a142e1a0139c65bebcf14ac295df046/classes.dex
+base.1=/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b56e54ee5a142e1a0139c65bebcf14ac295df046
+file.0=/home/gbarzu/AndroidStudioProjects/ButtonClickerTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_084f56109d684cba26a215f6dbc442371a3ff524/classes.dex

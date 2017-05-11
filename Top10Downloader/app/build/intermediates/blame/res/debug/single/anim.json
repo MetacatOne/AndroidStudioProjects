@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/Top10Downloader/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/anim/abc_slide_out_top.xml"
+    }
+]

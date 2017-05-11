@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/ButtonCounter/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/ButtonCounter/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

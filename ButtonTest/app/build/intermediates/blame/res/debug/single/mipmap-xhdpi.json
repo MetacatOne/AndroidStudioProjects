@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/ButtonTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/gbarzu/AndroidStudioProjects/ButtonTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/ButtonTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/gbarzu/AndroidStudioProjects/ButtonTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
