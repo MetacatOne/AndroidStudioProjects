@@ -40,6 +40,10 @@
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/layout/activity_youtube.xml",
+        "source": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/res/layout/activity_youtube.xml"
+    },
+    {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout/abc_search_view.xml"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/layout/content_youtube.xml",
+        "source": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/res/layout/content_youtube.xml"
     },
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/Android
 		INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml
 		INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gbarzu/.android/build-cache/880cfb1d58569aa6c057333cec04710f0fd8c326/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/AndroidManifest.xml:29:5-20
@@ -57,6 +57,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.metacat.youtubeplayer.YoutubeActivity
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:22:9-25:68
+	android:label
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:23:13-44
 uses-sdk
 INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gbarzu/.android/build-cache/880cfb1d58569aa6c057333cec04710f0fd8c326/output/AndroidManifest.xml:5:5-7:41
