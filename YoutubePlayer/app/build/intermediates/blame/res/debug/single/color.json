@@ -12,24 +12,20 @@
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
@@ -40,16 +36,40 @@
         "source": "/home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/res/color/design_error.xml"
     },
     {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
@@ -64,10 +84,6 @@
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_switch_track.xml"
     },
@@ -78,10 +94,6 @@
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
         "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",

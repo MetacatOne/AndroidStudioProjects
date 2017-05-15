@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml
@@ -13,14 +13,27 @@ ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/Android
 	android:versionCode
 		INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml
 		INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:11:22-64
 application
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:5:5-26:19
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:13:5-50:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gbarzu/.android/build-cache/880cfb1d58569aa6c057333cec04710f0fd8c326/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gbarzu/.android/build-cache/16455a73fcc8bd0c36d910910330d72969d32944/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gbarzu/.android/build-cache/b1697ff92c467b2fa6d667a5e75c05bac5d75cf2/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gbarzu/.android/build-cache/36c42c2982889586a66e633f7754752c13250c84/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/gbarzu/.android/build-cache/7aba3a051bd144e0bee09f95902fb8bfe843a925/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/gbarzu/.android/build-cache/822b550729ffbb2c5a196cd616c09e91314aea18/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/gbarzu/.android/build-cache/f5af8a9b361b1c464d3fb0a62510a1b81797e790/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:25.3.1] /home/gbarzu/.android/build-cache/9402d5b8b9010c491b21b24ad51bca48f2ee9765/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/gbarzu/.android/build-cache/b673c81d57a86ed945b9529653b74ee7bc61b7ee/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/gbarzu/.android/build-cache/b72841dbeae860e2e4fa434b8a3427aaea614a1c/output/AndroidManifest.xml:29:5-20
@@ -28,43 +41,51 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/gbarzu/.android/b
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/gbarzu/.android/build-cache/9d05fc5e305f7a7a373f86d1005799ded37fb622/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/gbarzu/.android/build-cache/51e7449d6d6873b261b725d379250929601d6632/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:18:9-35
 	android:roundIcon
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:17:9-54
 	android:allowBackup
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:15:9-43
 	android:theme
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:19:9-40
 activity#com.metacat.youtubeplayer.MainActivity
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:12:9-21:20
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:20:9-29:20
 	android:label
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:22:13-45
 	android:theme
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:15:13-56
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:21:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:27:27-74
 activity#com.metacat.youtubeplayer.YoutubeActivity
-ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:22:9-25:68
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:30:9-39:20
 	android:label
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:24:13-59
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:32:13-59
 	android:theme
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:25:13-56
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:23:13-44
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:31:13-44
+activity#com.metacat.youtubeplayer.StandaloneActivity
+ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:40:9-49:20
+	android:label
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:42:13-62
+	android:theme
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml:41:13-47
 uses-sdk
 INJECTED from /home/gbarzu/AndroidStudioProjects/YoutubePlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gbarzu/.android/build-cache/880cfb1d58569aa6c057333cec04710f0fd8c326/output/AndroidManifest.xml:5:5-7:41
@@ -74,6 +95,10 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gbarzu/.
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gbarzu/.android/build-cache/36c42c2982889586a66e633f7754752c13250c84/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/gbarzu/.android/build-cache/fe102c33b2c05ecc1d9f8dd857bc879156308a89/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.3.1] /home/gbarzu/.android/build-cache/7aba3a051bd144e0bee09f95902fb8bfe843a925/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/gbarzu/.android/build-cache/822b550729ffbb2c5a196cd616c09e91314aea18/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/gbarzu/.android/build-cache/f5af8a9b361b1c464d3fb0a62510a1b81797e790/output/AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:25.3.1] /home/gbarzu/.android/build-cache/9402d5b8b9010c491b21b24ad51bca48f2ee9765/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /home/gbarzu/.android/build-cache/b673c81d57a86ed945b9529653b74ee7bc61b7ee/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/gbarzu/.android/build-cache/b72841dbeae860e2e4fa434b8a3427aaea614a1c/output/AndroidManifest.xml:21:5-23:63
@@ -105,3 +130,27 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/gbarzu/.android/bu
 		ADDED from [com.android.support:design:25.3.1] /home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:design:25.3.1] /home/gbarzu/.android/build-cache/a59a0978e1fdb2b52186293fb6b8b33d5030ed66/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/gbarzu/.android/build-cache/3ee67c24dc7660840cd0da904c68022c9b10d734/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/gbarzu/.android/build-cache/c0f0604e2f0bc205d9442d69a83b7a17697196b9/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/gbarzu/.android/build-cache/f5af8a9b361b1c464d3fb0a62510a1b81797e790/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/gbarzu/.android/build-cache/f5af8a9b361b1c464d3fb0a62510a1b81797e790/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/gbarzu/.android/build-cache/f5af8a9b361b1c464d3fb0a62510a1b81797e790/output/AndroidManifest.xml:20:20-65
